@@ -36,7 +36,7 @@ source("scripts/03_plotar_spi.R")
 
 As figuras serão salvas em `saidas/figuras/` e as tabelas em `saidas/tabelas/`.
 
-## Pacotes
+## Pacotes utilizados
 - `tidyverse` (dplyr, readr, ggplot2 etc.)
 - `lubridate`
 - `SPEI` (função `spi()`)
