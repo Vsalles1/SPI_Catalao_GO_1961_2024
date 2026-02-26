@@ -8,7 +8,7 @@ Este repositório contém um fluxo reproduzível (scripts + comandos) para calcu
 
 ## Estrutura sugerida
 ```
-reproducao_spi_hub/
+SPI_Catalao_GO_1961_2024/
   README.md
   scripts/
     00_setup.R
