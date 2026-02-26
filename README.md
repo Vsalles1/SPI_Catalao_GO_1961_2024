@@ -16,7 +16,7 @@ SPI_Catalao_GO_1961_2024/
     02_calcular_spi.R
     03_plotar_spi.R
   dados/
-    chuva_diaria_1961_2024.csv   # (você coloca aqui)
+    chuva_diaria_1961_2024.csv 
   saidas/
     figuras/
     tabelas/
@@ -24,7 +24,7 @@ SPI_Catalao_GO_1961_2024/
 
 ## Como rodar (passo a passo)
 1) Copie seu arquivo para `dados/chuva_diaria_1961_2024.csv` (ou ajuste o caminho nos scripts).  
-2) No R/RStudio, abra um projeto apontando para a pasta `reproducao_spi_hub/`.  
+2) No R/RStudio, abra um projeto apontando para a pasta SPI_Catalao_GO_1961_2024/.  
 3) Execute na ordem:
 
 ```r
